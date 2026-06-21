@@ -25,7 +25,7 @@ Fornecer uma visão dos principais indicadores de estoque através de dashboards
 
 ## Arquivo do projeto
 
-Case_Controle_de_Estoque-Dashboard.pbix
+Case Controle de Estoque - Dashboard.pbix
 
 ## Habilidades demonstradas
 
