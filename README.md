@@ -21,7 +21,7 @@ Fornecer uma visão dos principais indicadores de estoque através de dashboards
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+Dashboard PNG.png
 
 ## Arquivo do projeto
 
